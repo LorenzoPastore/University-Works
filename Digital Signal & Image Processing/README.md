@@ -1,6 +1,6 @@
 <p float="left">
- <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/DS%20Logo.png" width = "500"/>
- <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/Bicocca%20Logo.png" width = "100" align="right"/>
+ <img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/DS%20Logo.png" width = "500"/>
+ <img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/Bicocca%20Logo.png" width = "100" align="right"/>
 </p>
 
 # Digital Signals Processing and Retrieval
@@ -33,18 +33,8 @@ Several different notebook were devoloped with respect to the project phases. In
   <img src="https://github.com/RaffaeleAns/DSIM/blob/master/images/PO.png" width = "550">
 </p>    
 
+For any doubt and/or perplexity, do not hesitate to contact us:
+- Lorenzo Pastore - l.pastore6@campus.unimib.it
+- Raffaele Anselmo - raffaeleanselmo@gmail.com
 
-<p align = "center">
-  <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/AR%20Logo.png" width = "250">
-</p>    
-    
-    
-<p align = "center">
-<a href="https://github.com/RaffaeleAns">
-<img border="0" alt="W3Schools" src="https://github.com/RaffaeleAns/Foundation-of-CS-Exam-Project/blob/master/images/GitHub%20Logo.png" width="20" height="20">
-</a>
- <a href="https://www.linkedin.com/in/raffaele-anselmo-213a0a179">
-<img border="0" alt="do" src="https://github.com/RaffaeleAns/Foundation-of-CS-Exam-Project/blob/master/images/LinkedIn%20Logo.png" width="20" height="20">
-</a>
-</p>
 
