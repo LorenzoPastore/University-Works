@@ -2,8 +2,12 @@
  <img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/DS%20Logo.png" width = "500"/>
  <img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/Bicocca%20Logo.png" width = "100" align="right"/>
 </p>
+<p align = "center">
+  <a href = "https://www.linkedin.com/in/lorenzo-pastore-9a4653157/"><img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/Linkedin%20logo.png" width = "2%"></a>
+  <a href = "https://github.com/LorenzoPastore"><img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/GitHub.png" width = "2%"></a>
+</p>
 
-# Classification-of-Amazon-Reviews-by-Topic
+# Classification of Amazon Reviews by Topic
 The aim of this project is to explore the potential of text mining and machine learning techniques. Specifically, a multiclass text classification problem has been addressed.
 
 
