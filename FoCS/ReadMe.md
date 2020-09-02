@@ -3,21 +3,12 @@
  <img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/Bicocca%20Logo.png" width = "100" align="right"/>
 </p>
 
-</p>
-  <br>
-  Foundations of Computer Science (FoCS) - Project
-  <br>
-</h1>
+# Foundations of Computer Science (FoCS) - Project
 
 <p align="center">
   <a href="#overview">Overview &nbsp;</a> |
   <a href="#instructions">&nbsp; Instructions &nbsp;</a> |
   <a href="#datasets">&nbsp; Datasets &nbsp;</a> 
-</p>
-
-<p align = "center">
-  <a href = "https://www.linkedin.com/in/lorenzo-pastore-9a4653157/"><img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/Linkedin%20logo.png" width = "2%"></a>
-  <a href = "https://github.com/LorenzoPastore"><img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/GitHub.png" width = "2%"></a>
 </p>
 
 <a name="overview"></a>
