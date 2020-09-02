@@ -4,7 +4,7 @@
 </p>
 
 # Mushrooms Classification
-This Project has been developed by me and [Lorenzo Pastore](https://github.com/LorenzoPastore).
+This Project has been developed by me and [Raffaele Anselmo](https://github.com/RaffaeleAns).
 This project exploits the capability of Machine Learning algorithms to classify edible and poisonous mushrooms
 
 The Dataset "Mushrooms Classification" is available on Kaggle: https://www.kaggle.com/uciml/mushroom-classification.
@@ -15,17 +15,8 @@ Below the workflow overview:
 
 ![workflow](workflow.png)
 
+For any doubt and/or perplexity, do not hesitate to contact us:
+- Lorenzo Pastore - l.pastore6@campus.unimib.it
+- Raffaele Anselmo - r.anselmo@campus.unimib.it
 
- <p align = "center">
-  <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/AR%20Logo.png" width = "250">
-</p>    
-    
- 
-<p align = "center">
-<a href="https://github.com/RaffaeleAns">
-<img border="0" alt="W3Schools" src="https://github.com/RaffaeleAns/Foundation-of-CS-Exam-Project/blob/master/images/GitHub%20Logo.png" width="20" height="20">
-</a>
- <a href="https://www.linkedin.com/in/raffaele-anselmo-213a0a179">
-<img border="0" alt="do" src="https://github.com/RaffaeleAns/Foundation-of-CS-Exam-Project/blob/master/images/LinkedIn%20Logo.png" width="20" height="20">
-</a>
-</p>
+
