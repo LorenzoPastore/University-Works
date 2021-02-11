@@ -7,7 +7,7 @@
 ### A Fair Classifier based on Adversarial Debiasing
 
 <p align="center">
-	<img src="https://github.com/LorenzoPastore/University/Advanced Machine Learning/blob/master/images/fair_HD.gif" width = "300">
+	<img src="https://github.com/LorenzoPastore/University/Advanced_Machine_Learning/blob/master/images/fair_HD.gif" width = "300">
 </p>
 
 In this repo a binary classification problem on income prediction is developed and analyzed in terms of classification and fairness metrics. A fair classifier based on Adversarial Debiasing is proposed, along with a Hyperparameters Optimization (HPO).
