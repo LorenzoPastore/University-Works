@@ -7,7 +7,7 @@
 ### A Fair Classifier based on Adversarial Debiasing
 
 <p align="center">
-	<img src="https://github.com/LorenzoPastore/University/Advanced_Machine_Learning/blob/master/images/fair_HD.gif" width = "300">
+	<img src="https://github.com/LorenzoPastore/University/blob/master/Advanced%20Machine%20Learning/images/fair_HD.gif" width = "300">
 </p>
 
 In this repo a binary classification problem on income prediction is developed and analyzed in terms of classification and fairness metrics. A fair classifier based on Adversarial Debiasing is proposed, along with a Hyperparameters Optimization (HPO).
@@ -21,32 +21,23 @@ Once tested and quantified the disparate treatment between protected and unprote
 
 ## Report
 
-[Here](https://github.com/RaffaeleAns/Adversarial-Fair-Classifier/blob/master/report.pdf) you can find the technical report with the details of the analysis.
+[Here](https://github.com/LorenzoPastore/University/blob/master/Advanced%20Machine%20Learning/report.pdf) you can find the technical report with the details of the analysis.
 
 ## Presentation
 
-[Here](https://github.com/RaffaeleAns/Adversarial-Fair-Classifier/blob/master/AML%20presentazione.pdf) you can find a short presentation.
+[Here](https://github.com/LorenzoPastore/University/blob/master/Advanced%20Machine%20Learning/AML%20presentazione.pdf) you can find a short presentation.
 
 ## Notebook
 
-[Here](https://github.com/RaffaeleAns/Adversarial-Fair-Classifier/blob/master/code.ipynb) you can find the notebook.
+[Here](https://github.com/LorenzoPastore/University/blob/master/Advanced%20Machine%20Learning/code.ipynb) you can find the notebook.
 
 
-
-
-<p align = "center">
-  <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/AR%20Logo.png" width = "250">
-</p>    
-    
     
 <p align = "center">
-<a href="https://github.com/RaffaeleAns">
-<img border="0" alt="W3Schools" src="https://github.com/RaffaeleAns/Foundation-of-CS-Exam-Project/blob/master/images/GitHub%20Logo.png" width="20" height="20">
-</a>
- <a href="https://www.linkedin.com/in/raffaele-anselmo-213a0a179">
-<img border="0" alt="do" src="https://github.com/RaffaeleAns/Foundation-of-CS-Exam-Project/blob/master/images/LinkedIn%20Logo.png" width="20" height="20">
-</a>
+  <a href = "https://www.linkedin.com/in/lorenzo-pastore-9a4653157/"><img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/Linkedin%20logo.png" width = "5%"></a>
+  <a href = "https://github.com/LorenzoPastore"><img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/GitHub.png" width = "5%"></a>
 </p>
+
 
 
 
