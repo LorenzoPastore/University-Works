@@ -1,13 +1,13 @@
 <p float="left">
- <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/DS%20Logo.png" width = "500"/>
- <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/Bicocca%20Logo.png" width = "100" align="right"/>
+ <img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/DS%20Logo.png" width = "500"/>
+ <img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/Bicocca%20Logo.png" width = "100" align="right"/>
 </p>
 
 # Adversarial Fair Classification
 ### A Fair Classifier based on Adversarial Debiasing
 
 <p align="center">
-	<img src="https://github.com/RaffaeleAns/Adversarial-Fair-Classifier/blob/master/images/fair_HD.gif" width = "300">
+	<img src="https://github.com/LorenzoPastore/University/Advanced Machine Learning/images/fair_HD.gif" width = "300">
 </p>
 
 In this repo a binary classification problem on income prediction is developed and analyzed in terms of classification and fairness metrics. A fair classifier based on Adversarial Debiasing is proposed, along with a Hyperparameters Optimization (HPO).
