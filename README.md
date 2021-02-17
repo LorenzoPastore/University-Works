@@ -15,8 +15,9 @@
 - <a href = "https://github.com/LorenzoPastore/University/tree/master/Web%20Marketing">Web Marketing<a>
 - <a href = "https://github.com/LorenzoPastore/University/tree/master/Other%20Works">Other Works<a>
 
-For any doubt and/or perplexity, do not hesitate to contact:
+For any doubt and/or perplexity, do not hesitate to contact me or my (projects) soulmate:
 - Lorenzo Pastore - l.pastore6@campus.unimib.it
+- Raffaele Anselmo - r.anselmo@campus.unimib.it
 
 <p align = "center">
   <a href = "https://www.linkedin.com/in/lorenzo-pastore-9a4653157/"><img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/Linkedin%20logo.png" width = "5%"></a>
