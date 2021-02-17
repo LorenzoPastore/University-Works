@@ -5,6 +5,7 @@
 
 # Collection of university projects exams
 
+- <a href = "https://github.com/LorenzoPastore/University/tree/master/Advanced%20Machine%20Learning">Advanced Machine Learning<a>
 
 For any doubt and/or perplexity, do not hesitate to contact:
 - Lorenzo Pastore - l.pastore6@campus.unimib.it
