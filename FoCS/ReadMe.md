@@ -1,6 +1,6 @@
 <p float="left">
- <img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/DS%20Logo.png" width = "500"/>
- <img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/Bicocca%20Logo.png" width = "100" align="right"/>
+ <img src="https://github.com/LorenzoPastore/University-Works/blob/master/Advanced%20Machine%20Learning/images/DS%20Logo.png" width = "500"/>
+ <img src="https://github.com/LorenzoPastore/University-Works/blob/master/Advanced%20Machine%20Learning/images/Bicocca%20Logo.png" width = "100" align="right"/>
 </p>
 
 # Foundations of Computer Science (FoCS) - Project
@@ -62,8 +62,3 @@ Country level statistics and detailed economic grid data are provided as well.
 &nbsp;&nbsp;&nbsp; &#9667; &nbsp; [Kiva](https://drive.google.com/file/d/1-tJtnIbo1Rt-F1XfoWGVkmBXiI-ciuRx/view?usp=sharing)
 
 ## &nbsp;
-
-<p align = "center">
-  <a href = "https://www.linkedin.com/in/lorenzo-pastore-9a4653157/"><img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/Linkedin%20logo.png" width = "2%"></a>
-  <a href = "https://github.com/LorenzoPastore"><img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/GitHub.png" width = "2%"></a>
-</p>
