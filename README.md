@@ -15,7 +15,5 @@
 - <a href = "https://github.com/LorenzoPastore/University/tree/master/Web%20Marketing">Web Marketing<a>
 - <a href = "https://github.com/LorenzoPastore/University/tree/master/Other%20Works">Other Works<a>
 
-For any doubt and/or perplexity, do not hesitate to contact me or my (projects) soulmate:
+For any doubt and/or perplexity, do not hesitate to contact me:
 - Lorenzo Pastore - l.pastore6@campus.unimib.it
-- Raffaele Anselmo - r.anselmo@campus.unimib.it
-
