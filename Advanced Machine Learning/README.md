@@ -32,13 +32,6 @@ Once tested and quantified the disparate treatment between protected and unprote
 [Here](https://github.com/LorenzoPastore/University/blob/master/Advanced%20Machine%20Learning/code.ipynb) you can find the notebook.
 
 
-    
-<p align = "center">
-  <a href = "https://www.linkedin.com/in/lorenzo-pastore-9a4653157/"><img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/Linkedin%20logo.png" width = "5%"></a>
-  <a href = "https://github.com/LorenzoPastore"><img src="https://github.com/LorenzoPastore/FoCS_2019-20/blob/master/images/GitHub.png" width = "5%"></a>
-</p>
-
-
 
 
 
