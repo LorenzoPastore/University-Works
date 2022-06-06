@@ -1,6 +1,6 @@
 <p float="left">
- <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/DS%20Logo.png" width = "500"/>
- <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/Bicocca%20Logo.png" width = "100" align="right"/>
+ <img src="https://github.com/LorenzoPastore/University-Works/blob/master/Advanced%20Machine%20Learning/images/DS%20Logo.png" width = "500"/>
+ <img src="https://github.com/LorenzoPastore/University-Works/blob/master/Advanced%20Machine%20Learning/images/Bicocca%20Logo.png" width = "100" align="right"/>
 </p>
 
 # Mushrooms Classification
